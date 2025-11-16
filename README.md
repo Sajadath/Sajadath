@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sajadath
 - 👀 I’m interested in Front-End developing (React, NextJs)
-- 🌱 I’m currently learning Framer Motion
+- 🌱 I’m currently learning Go lang
 - 💞️ I’m looking to collaborate on FrontEnd NextJs-React Projects
 - 📫 How to reach me : sajadath1@gmail.com 
 
